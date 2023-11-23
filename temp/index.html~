@@ -1,0 +1,35 @@
+	<!DOCTYPE html>
+	<html lang="en">
+	<link href="css/styles.css" type="text/css" rel="stylesheet">
+	</head>
+	<body>
+	
+	
+	
+	
+	<header>
+	  <h2>ELDEN RING</h2>
+	</header>
+	
+	<section>
+	  <nav>
+	    <ul>
+	      <li><a href="index.html">inici</a></li>
+	      <li><a href="mejores builds.html">mejores builds</a></li>
+	      <li><a href="#">mejores armas</a></li>
+	            <li><a href="galeria.html">galeria</a></li>
+	    </ul>
+	  </nav>
+	  
+	  <article>
+	    <h1> Historia de Elden ring</h1>
+	    <p>En la historia de Elden Ring, los Sinluz fueron exiliados de las Tierras Intermedias, y tu propio personaje resulta ser un descendiente de aquellos que cayeron en desgracia en el pasado. A pesar de estos problemas, todo estaba relativamente «bien» en las Tierras Intermedias. Sin embargo, el Anillo de Elden se hizo añicos y un puñado de semidioses entraron en guerra entre sí en un conflicto llamado la Guerra de la Destrucción, todos buscando convertirse en el nuevo Señor del anillo de Elden.</p>
+	  </article>
+	</section>
+	
+	<footer>
+	  <p>mario albarran ruiz</p>
+	</footer>
+	
+	</body>
+	</html>

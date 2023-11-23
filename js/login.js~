@@ -1,0 +1,20 @@
+function validarForm(){
+	//'J.9L !J.Q1!J. = document . forms ["" formulari ""] [ ""nomcomplet"" ] .value;"
+	var nom = document.getElementById("nomComplet").value; 
+	var num = document.getElementById("numerosNif").value; 
+	var  lletra = document.getElementById("lletresNIF").value;
+	
+	alert("Comencem a Validar..."+nom+" "+num+" "+lletra);
+	lletra = lletra.toUpperCase();
+	num = num%23;
+lletres dni = "TRWAGHYFPOXBNJZSQVHLCKET";
+lletra_apartir_num = lletres_dni.substring(num, num+1); 
+if (lletra != lletra_apartir_num ) {
+alert('DNI erroni, la lletra del ONI no correcta '); 
+return false;
+} else {
+alert("Tot correcte, envie'm les teves dades. Gracies "+nom ); 
+document.getElementById("formulari").submit();
+return true;
+	} 
+}

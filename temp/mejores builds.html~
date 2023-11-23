@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+	<html lang="en">
+	<link href="css/styles.css" type="text/css" rel="stylesheet">
+	</head>
+	<body>
+	
+	
+	
+	
+	<header>
+	  <h1>ELDEN RING</h1>
+	</header>
+	
+	<section>
+	  <nav>
+	    <ul>
+	      <li><a href="mago.html">mago</a></li>
+	      <li><a href="sangrado.html">sangrado</a></li>
+	      <li><a href="aturdimiento.html"> aturdimiento</a></li>
+	            <li><a href="galeria.html">galeria</a></li>
+	    </ul>
+	  </nav>
+	  
+	  <article>
+	    <h1>que es una build</h1>
+	    <p></p>
+	  </article>
+	</section>
+	
+	<footer>
+	  <p>mario albarran ruiz</p>
+	</footer>
+	
+	</body>
+	</html>
